@@ -1,6 +1,5 @@
 /* eslint-disable react/no-unknown-property */
 import { useState } from "react";
-// import { Quote } from "lucide-react";
 import "../App.css";
 
 const VideoReviews = () => {
