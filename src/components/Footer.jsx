@@ -37,7 +37,7 @@ const Footer = () => {
           >
             <Linkedin className="h-5 w-5 text-white" />
           </a>
-
+           {/*Youtube*/}
           <a
             href="https://www.youtube.com/c/brainyindia"
             className="bg-red-600 p-2 rounded-md hover:bg-red-700 transition-colors duration-200"
@@ -45,7 +45,7 @@ const Footer = () => {
             <Youtube className="h-5 w-5 text-white" />
           </a>
 
-          {/* Twitter */}
+          {/* Instagram */}
           <a
             href="https://www.instagram.com/brainyindia/"
             className=" p-2 rounded-md insta-logo transition-colors duration-200"
