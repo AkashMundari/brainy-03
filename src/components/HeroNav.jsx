@@ -87,7 +87,8 @@ const HeroNav = () => {
         }
         flex justify-between items-center `}
         >
-          <div className="logo mr-10">{/* Add your logo here */}</div>
+          {/*logo*/}
+          <div className="logo mr-10"></div>
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-8">
